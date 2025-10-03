@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+</ul>  
+
+
+<div class="container-fluid p-3 bg-success text-dark text-center">
+  <h1>Jayden's First Bootstrap Page</h1>
+  <p>Resize this responsive page to see the effect!</p> 
+</div>
